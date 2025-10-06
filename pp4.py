@@ -14,8 +14,7 @@ for num in numbers:
 
 print(f"Even numbers count: {even_count}")
 print(f"Odd numbers count: {odd_count}")
-# Count even, odd, and find prime numbers in a list
-
+# Count even, odd, and find prime nu prime-count
 numbers = input("Enter numbers separated by spaces: ").split()
 numbers = [int(num) for num in numbers]
 
@@ -41,4 +40,4 @@ for num in numbers:
 
 print(f"Even numbers count: {even_count}")
 print(f"Odd numbers count: {odd_count}")
-print(f"Prime numbers: {prime_numbers}")
+print(f"Prime numbers: {prime_numain
